@@ -1,0 +1,27 @@
+h1{
+    text-align: center;
+    color: teal;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+h2{text-align: center;
+    color: teal;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+#me{border: 16px solid orange;  display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+
+}
+
+p{text-align: center;
+color: teal;
+font-family: 'Courier New', Courier, monospace;}
+
+ul{text-align: center;
+color: teal;
+font-family: 'Courier New', Courier, monospace;
+}
+
